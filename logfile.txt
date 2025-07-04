@@ -1,0 +1,14 @@
+[2025-07-04 11:31:58] SUCCESS - www.nab.com.au (23.48.95.32) in 4.01 ms
+[2025-07-04 11:32:14] SUCCESS - google.com (142.251.221.78) in 16.1 ms
+[2025-07-04 11:33:54] ERROR - nab.com.au - Request timeout for ICMP packet. (Timeout=4s)
+[2025-07-04 11:33:57] SUCCESS - google.com (142.251.221.78) in 18.0 ms
+INFO:root:2025-07-04 11:37:08.839767: google.com -> 22.01 ms
+WARNING:root:2025-07-04 11:39:08.984853: nab.com.au -> Timeout
+INFO:root:2025-07-04 11:39:15.643046: google.com -> 16.05 ms
+[2025-07-04 11:46:35] ERROR - nab.com.au - Request timeout for ICMP packet. (Timeout=4s)
+[2025-07-04 11:52:56] SUCCESS - www.nab.com.au (184.84.238.81) in 4.04 ms
+[2025-07-04 11:53:08] ERROR - rmit.edu.au - Request timeout for ICMP packet. (Timeout=4s)
+[2025-07-04 11:53:25] SUCCESS - google.com (142.250.204.14) in 16.01 ms
+[2025-07-04 12:16:09] ERROR - sajdoijkmc - [Errno 11001] getaddrinfo failed
+[2025-07-04 12:19:04] ERROR - ejfe - [Errno 11001] getaddrinfo failed
+[2025-07-04 14:04:01] ERROR - 3456 - [Errno 11001] getaddrinfo failed
